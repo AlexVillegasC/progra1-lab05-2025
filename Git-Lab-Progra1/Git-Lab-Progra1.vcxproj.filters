@@ -30,7 +30,5 @@
   <ItemGroup>
     <None Include="datos\alexvillegas.json" />
     <None Include="datos\juan_perez.json" />
-    <None Include="datos\maria_garcia.json" />
-    <None Include="datos\test.json" />
   </ItemGroup>
 </Project>
