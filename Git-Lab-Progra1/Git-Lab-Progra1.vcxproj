@@ -129,6 +129,11 @@
   <ItemGroup>
     <ClInclude Include="Persona.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="datos\alexvillegas.json" />
+    <None Include="datos\juan_perez.json" />
+    <None Include="datos\maria_garcia.json" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
