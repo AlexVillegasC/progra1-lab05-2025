@@ -132,6 +132,7 @@
   <ItemGroup>
     <None Include="datos\alexvillegas.json" />
     <None Include="datos\juan_perez.json" />
+    <None Include="datos\kendalrosales.json" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
